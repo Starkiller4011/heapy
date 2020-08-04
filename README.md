@@ -48,5 +48,5 @@ Nasa ADS: https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.2557G/abstract
 arxiv: https://arxiv.org/abs/1805.00300
 
 Copyright © Derek Blue 2019
-This software is distributed under a provisional MIT License. See the LICENSE file
+This software is distributed under a provisional GNU GPLV3 License. See the LICENSE file
 for more details.
