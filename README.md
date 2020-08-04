@@ -9,7 +9,9 @@ Download a release from the release folder and extract it to where your python a
 import heapy as hp
 
 Normal:
+
     git clone https://github.com/Starkiller4011/heapy.git .
+    
 copy the contents of src to the location of your python analysis script
 import heapy as hp
 
